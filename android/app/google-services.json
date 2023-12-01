@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352795901712",
+    "project_id": "vallige-app",
+    "storage_bucket": "vallige-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352795901712:android:266193daa3912a01ef6f95",
+        "android_client_info": {
+          "package_name": "com.example.valligeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIgTVPJk2xfZNl4behYMUFMcrA0L5yu9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
